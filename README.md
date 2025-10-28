@@ -46,7 +46,7 @@ Live Contract on Sepolia is:[here](https://sepolia.etherscan.io/address/0x285c48
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
+git clone https://github.com/DHRUVCHARNE/foundry-fund-me-23
 cd foundry-fund-me-cu
 make
 ```
